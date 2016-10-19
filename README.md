@@ -1,2 +1,2 @@
 # EAIS_code
-East Antarctica repo for code and paper
+East Antarctica repo for code and figures for paper
