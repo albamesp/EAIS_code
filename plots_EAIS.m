@@ -147,3 +147,17 @@ hYLabel = ylabel('Ice dynamics anomalies (Gt/yr)');
 set(gcf, 'PaperPositionMode', 'auto');
 set(gca,'ygrid','on','ytick',[-50:25:150])
   
+%%%%%%%%%%%
+%Sensitivity to time horizon to estimate anomalies
+
+% figure
+% h1=plot(2003:2013,T2_smb(:,1),'-k','LineWidth',2);
+% hold on
+% h2=plot(2003:2013,T2_smb28(:,1),'--k','LineWidth',2);
+% 
+% hXLabel = xlabel('Year');
+% hYLabel = ylabel('SMB anomaly (Gt/yr)');
+% legend([h1,h2],'1979-2002','1979-2008')
+% set(gcf, 'PaperPositionMode', 'auto');
+% grid on 
+% 
