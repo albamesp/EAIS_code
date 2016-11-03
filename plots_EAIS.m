@@ -1,15 +1,6 @@
 % Solutions to EAIS SMB anomalies from different RCM
 close all, clear all, clc
 
-% cd('O:\Documents\RATES\R Code\img\zwally\EGU\paper')
-% R_new = xlsread('results_EAISpaper_zw.xls');
-% n = 1:10; 
-% n3 = repmat(n,1,11); 
-% b=zeros(25,1);c2=[n3';b];
-% R_new = R_new(1:135,:);
-% R_new = [c2,R_new];
-% clear  n3 b c2
- 
 cd('O:\Documents\RATES\R Code\img\zwally\EGU\paper')
 R_new28 = xlsread('FINALresults_EAISpaper_zw28.xls');
 n = 1:10; 
