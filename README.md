@@ -6,3 +6,4 @@ We investigate the mass balance of East Antarctica over the period 2003 to 2013 
  - Study sensitivity to the regional climate model
  - Study sensitivity to GRACE
  - Study sensitivity to altimetry
+ - ICB corrections
