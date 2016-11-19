@@ -1,3 +1,10 @@
 Mean elevation change in 2007 measured by a) ICESat, b) Envisat, c) GRACE, and that obtained from  d) SMB anomalies from Experiment I, e) RACMO2.3.
 
-Figure S1 shows the basin definitions for Antarctica based on Sasgen et al. 2013.  S2 show time series of SMB anomalies on (left) East Antarctica and (right)  East Antarctica minus Wilkes Land (region covered by basins 11, 12 and 13). Figure S3 shows time series of SMB anomalies for Victoria-Wilkes Land (basins 11, 12, 13) compared to RACMO2.3 (left) and RACMO2.4 (right).  Figures S4-S7 show annual elevation change of Antarctica for different data sets a) ICESat, b) Envisat, c) GRACE, and those obtained from  d) SMB anomalies from Experiment I, e) RACMO2.3 for the years 2004, 2006, 2007 and 2008, respectively. Figure S8 shows the mean GIA solution computed from different up-to-date available solutions for Antarctica and the required GIA to bring GRACE measurements to agree with the mass trends estimated in Zwally et al. (2015). Figure S9 shows the sensitivity of SMB anomalies modelled from RACMO with respect to the chosen mean time frame. 
+Figure S1 shows the basin definitions for Antarctica based on Sasgen et al. 2013.
+S2 show time series of SMB anomalies on (left) East Antarctica and (right)  East Antarctica minus Wilkes Land
+(region covered by basins 11, 12 and 13). Figure S3 shows time series of SMB anomalies for Victoria-Wilkes Land (basins 11, 12, 13)
+compared to RACMO2.3 (left) and RACMO2.4 (right).  Figures S4-S7 show annual elevation change of Antarctica for different data sets
+a) ICESat, b) Envisat, c) GRACE, and those obtained from  d) SMB anomalies from Experiment I,
+e) RACMO2.3 for the years 2004, 2006, 2007 and 2008, respectively.
+Figure S8 shows the mean GIA solution computed from different up-to-date available solutions for Antarctica and the required GIA
+to bring GRACE measurements to agree with the mass trends estimated in Zwally et al. (2015). Figure S9 shows the sensitivity of SMB anomalies modelled from RACMO with respect to the chosen mean time frame. 
